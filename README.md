@@ -40,7 +40,7 @@ bill(first_name , last_name , phone , consumer_no).
 
 - Platform- Windows 7 or higher
 
-### Modules OF Electricity Billing SYSTEM:-
+### Modules of Electricity Billing System:-
 
 #### - Login module: Used for managing the login details
 
